@@ -1,0 +1,10 @@
+# Blocking ad providers and some analytics providers in Vietnam
+# Contributions by: Help-14
+
+127.0.0.1 bebi.com
+127.0.0.1 bilsyndication.com
+127.0.0.1 bp.blogspot.com
+127.0.0.1 cpmstar.com
+127.0.0.1 ssl.cdne.cpmstar.com
+127.0.0.1 vliplatform.com
+127.0.0.1 refpa.top
