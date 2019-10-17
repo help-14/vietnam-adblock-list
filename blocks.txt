@@ -9,3 +9,4 @@
 127.0.0.1 vliplatform.com
 127.0.0.1 refpa.top
 127.0.0.1 go88.site
+127.0.0.1 uniad.phimmoi.net
