@@ -11,3 +11,4 @@
 127.0.0.1 go88.site
 127.0.0.1 uniad.phimmoi.net
 127.0.0.1 static.ketqua.net
+127.0.0.1 ahihi.tv
