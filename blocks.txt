@@ -15,3 +15,4 @@
 127.0.0.1 sv88.com
 127.0.0.1 s.truyenchon.com
 127.0.0.1 truyenchon.com
+127.0.0.1 truyenchon.com
