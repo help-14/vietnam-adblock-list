@@ -16,3 +16,7 @@
 127.0.0.1 s.truyenchon.com
 127.0.0.1 truyenchon.com
 127.0.0.1 truyenchon.com
+127.0.0.1 thethaovip.vip
+127.0.0.1 heeteefu.com
+127.0.0.1 st.truyenchon.com
+127.0.0.1 truyenchon.com
