@@ -20,3 +20,4 @@
 127.0.0.1 heeteefu.com
 127.0.0.1 st.truyenchon.com
 127.0.0.1 truyenchon.com
+127.0.0.1 adpia.vn
