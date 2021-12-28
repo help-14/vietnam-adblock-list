@@ -1,24 +1,24 @@
 # Blocking ad providers and some analytics providers in Vietnam
 # Contributions by: Help-14
 
-127.0.0.1 bebi.com
-127.0.0.1 bilsyndication.com
-127.0.0.1 bp.blogspot.com
-127.0.0.1 cpmstar.com
-127.0.0.1 ssl.cdne.cpmstar.com
-127.0.0.1 vliplatform.com
-127.0.0.1 refpa.top
-127.0.0.1 go88.site
-127.0.0.1 uniad.phimmoi.net
-127.0.0.1 static.ketqua.net
-127.0.0.1 ahihi.tv
-127.0.0.1 sv88.com
-127.0.0.1 s.truyenchon.com
-127.0.0.1 truyenchon.com
-127.0.0.1 truyenchon.com
-127.0.0.1 thethaovip.vip
-127.0.0.1 heeteefu.com
-127.0.0.1 st.truyenchon.com
-127.0.0.1 truyenchon.com
-127.0.0.1 adpia.vn
-127.0.0.1 syndication.exdynsrv.com
+bebi.com
+bilsyndication.com
+bp.blogspot.com
+cpmstar.com
+ssl.cdne.cpmstar.com
+vliplatform.com
+refpa.top
+go88.site
+uniad.phimmoi.net
+static.ketqua.net
+ahihi.tv
+sv88.com
+s.truyenchon.com
+truyenchon.com
+thethaovip.vip
+heeteefu.com
+st.truyenchon.com
+truyenchon.com
+adpia.vn
+syndication.exdynsrv.com
+exdynsrv.com
